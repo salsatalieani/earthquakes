@@ -1,0 +1,5 @@
+References
+
+USGS. (2022). Latest Earthquakes. Retrieved November 29, 2022, from Usgs.gov website: https://earthquake.usgs.gov/earthquakes/map/?currentFeatureId=us7000ir9t&extent=-7.72188,105.4248&extent=-5.98214,108.76465&range=search&timeZone=utc&search=%7B%22name%22:%22Search%20Results%22,%22params%22:%7B%22starttime%22:%222022-10-22%2000:00:00%22,%22endtime%22:%222022-11-29%2023:59:59%22,%22maxlatitude%22:-5.667,%22minlatitude%22:-9.065,%22maxlongitude%22:112.874,%22minlongitude%22:105.996,%22minmagnitude%22:2.5,%22maxmagnitude%22:8,%22orderby%22:%22time%22%7D%7D
+
+VanderPlas, J. (2022). Geographic Data with Basemap | Python Data Science Handbook. Retrieved November 29, 2022, from Github.io website: https://jakevdp.github.io/PythonDataScienceHandbook/04.13-geographic-data-with-basemap.html
